@@ -1,0 +1,34 @@
+
+
+.column{
+
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    min-height: 30vh;
+   
+}
+.color{
+    background-color: black;
+    color: aliceblue;
+    border-color: yellow;
+    border-width: 1px;
+}
+
+.colorletras{
+    color: aliceblue;
+}
+
+.border{
+
+    border-color: yellow;
+}
+
+.layout{
+    background-color: black;
+    background-size: cover;
+    
+
+}
+
+

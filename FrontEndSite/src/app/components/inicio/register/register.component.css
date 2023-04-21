@@ -1,0 +1,39 @@
+
+h3{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 48px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    
+
+}
+.card{
+    background-color: transparent;
+    border-color: transparent;
+}
+
+
+.btn:hover{
+    color:  #000000; 
+    background-color: #ffff;
+    border-color: #ffff;
+    box-shadow: rgba(235, 235, 235, 0.25) 0px 30px 60px -12px inset, rgba(106, 106, 106, 0.126) 0px 18px 36px -18px inset;
+   
+   
+}
+
+.color{
+
+    color: #0087FF;
+    cursor: pointer;
+    text-decoration: none;
+}
+.span{
+    text-align: start;
+   
+}
